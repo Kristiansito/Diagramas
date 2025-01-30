@@ -79,12 +79,12 @@
             <mxPoint x="420" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="--x_MKVJ3164S-OKjD1B-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="--x_MKVJ3164S-OKjD1B-2" target="--x_MKVJ3164S-OKjD1B-11">
+        <mxCell id="--x_MKVJ3164S-OKjD1B-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="--x_MKVJ3164S-OKjD1B-2" target="--x_MKVJ3164S-OKjD1B-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="470" as="sourcePoint" />
             <mxPoint x="420" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="340" />
+              <mxPoint x="770" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
